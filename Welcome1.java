@@ -13,6 +13,8 @@ public class Welcome2 {
         System.out.print("Welcome to");
         System.out.println("Java Programming!");
         System.out.println("Welcome\nto\nJava\nProgramming");
+        System.out.println("\"in quotes\"");
+        System.out.printf("%s%n%s%n", "Welcome to", "Java Programming");
     }
 }
 
